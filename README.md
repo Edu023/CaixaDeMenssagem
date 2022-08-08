@@ -12,4 +12,4 @@
 
 # A Terceira tela.
 ![Menssagem3](https://user-images.githubusercontent.com/92746966/183508174-3e5ef80a-ae01-43ca-8937-e22e353d1bdb.png)
--É a tela onde instrui o usuário a reiniciar a aplicação.
+- É a tela onde instrui o usuário a reiniciar a aplicação.
