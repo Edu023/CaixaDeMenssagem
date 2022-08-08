@@ -1,0 +1,17 @@
+C:\Users\edu_c\source\repos\CaixaDeMenssagem\CaixaDeMenssagem\bin\Debug\netcoreapp3.1\CaixaDeMenssagem.exe
+C:\Users\edu_c\source\repos\CaixaDeMenssagem\CaixaDeMenssagem\bin\Debug\netcoreapp3.1\CaixaDeMenssagem.deps.json
+C:\Users\edu_c\source\repos\CaixaDeMenssagem\CaixaDeMenssagem\bin\Debug\netcoreapp3.1\CaixaDeMenssagem.runtimeconfig.json
+C:\Users\edu_c\source\repos\CaixaDeMenssagem\CaixaDeMenssagem\bin\Debug\netcoreapp3.1\CaixaDeMenssagem.runtimeconfig.dev.json
+C:\Users\edu_c\source\repos\CaixaDeMenssagem\CaixaDeMenssagem\bin\Debug\netcoreapp3.1\CaixaDeMenssagem.dll
+C:\Users\edu_c\source\repos\CaixaDeMenssagem\CaixaDeMenssagem\bin\Debug\netcoreapp3.1\CaixaDeMenssagem.pdb
+C:\Users\edu_c\source\repos\CaixaDeMenssagem\CaixaDeMenssagem\obj\Debug\netcoreapp3.1\CaixaDeMenssagem.csproj.AssemblyReference.cache
+C:\Users\edu_c\source\repos\CaixaDeMenssagem\CaixaDeMenssagem\obj\Debug\netcoreapp3.1\CaixaDeMenssagem.Form1.resources
+C:\Users\edu_c\source\repos\CaixaDeMenssagem\CaixaDeMenssagem\obj\Debug\netcoreapp3.1\CaixaDeMenssagem.Properties.Resources.resources
+C:\Users\edu_c\source\repos\CaixaDeMenssagem\CaixaDeMenssagem\obj\Debug\netcoreapp3.1\CaixaDeMenssagem.csproj.GenerateResource.cache
+C:\Users\edu_c\source\repos\CaixaDeMenssagem\CaixaDeMenssagem\obj\Debug\netcoreapp3.1\CaixaDeMenssagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edu_c\source\repos\CaixaDeMenssagem\CaixaDeMenssagem\obj\Debug\netcoreapp3.1\CaixaDeMenssagem.AssemblyInfoInputs.cache
+C:\Users\edu_c\source\repos\CaixaDeMenssagem\CaixaDeMenssagem\obj\Debug\netcoreapp3.1\CaixaDeMenssagem.AssemblyInfo.cs
+C:\Users\edu_c\source\repos\CaixaDeMenssagem\CaixaDeMenssagem\obj\Debug\netcoreapp3.1\CaixaDeMenssagem.csproj.CoreCompileInputs.cache
+C:\Users\edu_c\source\repos\CaixaDeMenssagem\CaixaDeMenssagem\obj\Debug\netcoreapp3.1\CaixaDeMenssagem.dll
+C:\Users\edu_c\source\repos\CaixaDeMenssagem\CaixaDeMenssagem\obj\Debug\netcoreapp3.1\CaixaDeMenssagem.pdb
+C:\Users\edu_c\source\repos\CaixaDeMenssagem\CaixaDeMenssagem\obj\Debug\netcoreapp3.1\CaixaDeMenssagem.genruntimeconfig.cache
